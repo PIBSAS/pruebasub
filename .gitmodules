@@ -1,3 +1,6 @@
 [submodule "Install_GHDL_WSL"]
 	path = Install_GHDL_WSL
 	url = git@github.com:PIBSAS/Install_GHDL_WSL.git
+[submodule "memesprobemossincrearla"]
+	path = memesprobemossincrearla
+	url = git@github.com:PIBSAS/MicroPython_LilyGO_T_Display_S3.git
