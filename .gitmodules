@@ -1,0 +1,3 @@
+[submodule "Install_GHDL_WSL"]
+	path = Install_GHDL_WSL
+	url = git@github.com:PIBSAS/Install_GHDL_WSL.git
