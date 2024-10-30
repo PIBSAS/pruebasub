@@ -7,3 +7,6 @@
 [submodule "MicroPython_LilyGO_T_Display_S3"]
 	path = MicroPython_LilyGO_T_Display_S3
 	url = git@github.com:PIBSAS/MicroPython_LilyGO_T_Display_S3.git
+[submodule "esp-idf"]
+	path = esp-idf
+	url = git@github.com:espressif/esp-idf.git
